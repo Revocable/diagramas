@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T18:20:59.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ie8Hs3Qbfi2pxfeoP8xy" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T18:21:17.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1TixJfgS8Y_dcbsZeZpF" version="24.0.6" type="github">
   <diagram name="Página-1" id="Bm82kkWGtqgkZEn6zCBl">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="CNBqglWwDLXEw6zcQ5sN-54" value="+ getJogosPorDesenvolvedora(nome : String) : Jogo[]&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="CNBqglWwDLXEw6zcQ5sN-1" vertex="1">
           <mxGeometry y="476" width="340" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CNBqglWwDLXEw6zcQ5sN-55" value="+ removerConsumidor(consumidor : Consumidor) : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="CNBqglWwDLXEw6zcQ5sN-1" vertex="1">
+        <mxCell id="CNBqglWwDLXEw6zcQ5sN-55" value="+ removerConsumidor(consumidor : Consumidor) : void a" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="CNBqglWwDLXEw6zcQ5sN-1" vertex="1">
           <mxGeometry y="502" width="340" height="26" as="geometry" />
         </mxCell>
         <mxCell id="CNBqglWwDLXEw6zcQ5sN-56" value="+ removerJogo(jogo : Jogo) : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="CNBqglWwDLXEw6zcQ5sN-1" vertex="1">
